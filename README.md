@@ -1,2 +1,2 @@
 # Handwritten-Alphabet-Recognition-CNN
-We recognize handwritten characters(English alphabets) from A-Z by modeling a Convolutional Neural Network that will be trained over a dataset containing images of alphabets. Using Numpy, openCV, Keras, Tensorflow, Matplotlib and Pandas.
+We recognize handwritten characters(English alphabets) from A-Z by modeling a Convolutional Neural Network that will be trained over a dataset containing images of alphabets. Using Numpy, openCV, Keras, Tensorflow, Matplotlib and Pandas. The dataset for this project contains 372450 images of alphabets of 28×2, all present in the form of a CSV file: <a href="https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format">Handwritten character recognition dataset</a>
